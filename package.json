@@ -1,0 +1,19 @@
+{
+  "name": "com.ecsreplicator.serialization.generator.unity",
+  "version": "0.0.1",
+  "displayName": "ECS Replicator Serialization Generator for Unity",
+  "description": "Generate serialization from script assembly",
+  "unity": "2022.3",
+  "dependencies": {},
+  "author": {
+    "name": "Peter Bjorklund / ECS Replicator",
+    "email": "piot@hotmail.com",
+    "url": "https://github.com/piot"
+  },
+  "changelogUrl": "https://github.com/ecs-replicator/serialization-generator-unity/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/ecs-replicator/serialization-generator-unity/blob/main/README.md",
+  "keywords": [],
+  "license": "MIT",
+  "licensesUrl": "https://github.com/ecs-replicator/serialization-generator-unity/blob/main/LICENSE",
+  "samples": []
+}

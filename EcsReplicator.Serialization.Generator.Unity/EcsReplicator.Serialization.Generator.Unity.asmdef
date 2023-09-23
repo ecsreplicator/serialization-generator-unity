@@ -1,0 +1,24 @@
+{
+    "name": "EcsReplicator.Serialization.Generator.Unity",
+    "rootNamespace": "EcsReplicator.Serialization.Generator.Unity",
+    "references": [
+        "Piot.Clog",
+        "Piot.Clog.Unity",
+        "EcsReplicator.Attributes",
+        "EcsReplicator.Serialization.Unity.Generate",
+        "EcsReplicator.Attributes.Scan"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "Mono.CecilEx"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
